@@ -3,7 +3,7 @@
 namespace Brady\Token;
 
 
-class JWTV1
+class JWTOld
 {
 
 	//使用HMAC生成信息摘要时所使用的密钥
