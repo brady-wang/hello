@@ -1,0 +1,11 @@
+{
+    "name": "brady/hello",
+    "description": "hello",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Brady\\": "src/"
+        }
+    },
+    "require": {}
+}
